@@ -62,5 +62,5 @@ jobs:
         run: |
           kubectl apply -f kubernetess/deployment.yaml
           kubectl apply -f kubernetess/service.yaml
-          kubectl apply -f kubernetess/ingress.yaml
+          kubectl apply -f kubernetess/tls-ingress.yaml
 
