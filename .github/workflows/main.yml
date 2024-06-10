@@ -50,7 +50,7 @@ jobs:
           version: 'latest'
 
       - name: Authenticate with gcloud
-        run: gcloud auth activate-service-account --key-file=project.json
+        run: gcloud auth activate-service-account --key-file=.github/project.json
 
 
       - name: Configure GKE credentials
