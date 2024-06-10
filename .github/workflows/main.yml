@@ -49,6 +49,9 @@ jobs:
         with:
           version: 'latest'
 
+      - name: Authenticate with gcloud
+        run: gcloud auth activate-service-account --key-file=${{ secrets.GCP_SA_KEY }}
+
       - name: Configure GKE credentials
         run: gcloud container clusters get-credentials wisecow --zone us-central1-c --project ${{ secrets.GCP_PROJECT_ID }}
 
