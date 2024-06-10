@@ -48,6 +48,8 @@ jobs:
         uses: azure/setup-kubectl@v1
         with:
           version: 'latest'
+      - name: Install gke-gcloud-auth-plugin
+        run: gcloud components install kubectl
 
       - name: Authenticate with gcloud
         run: gcloud auth activate-service-account --key-file=.github/project.json
