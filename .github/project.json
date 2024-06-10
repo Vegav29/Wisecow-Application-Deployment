@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "wisecow",
+  "private_key_id": "09ce152a347312c3f4a2e1c4693fe796cbb8c64e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+3P80ulfwt6Gj\nzgPxhQYmH/g+3TMPAPauncb1uHR0QIrSwrr0AFG12Ldt8HqYuZ9WRCVfVFjJR4Sc\n4ST8T2JwHnZP77Dy/SpGS31fLfk0HVnfSRFGVg2aReB7WRMdbr674l2GefeouXQw\nUlFndDp318Yn+huFiz9JR8WlkReeZERMOaRsnCTNQY0fF8TBF3XFzvtUOirNv0Gl\neVtS+V4IDwIToyaoJngMe7pZsPqKdGLrUxAMwLqGr3/EM06wvWgzKeo7CayiK+oB\n+sf0h0u/YsiWStK63Ov6Eie79Cub6j4bbp6V+ZuIrBAjJFedEM72VUCbz+ZFjGVv\nijob1vBpAgMBAAECggEAE79Qdad6BcvaC3/7Oc07mkzgexCZLHTlu6H+Ey+nIjKz\nVPm/ghNZC5Qv66Nf69ajZ7eGmQW5vJ7hAkzrw2HV8NJrXKXotvCpTmXtGMtBkg90\nsad2WW1PMaZdLXtFK7G+Rjjg2FMHjrYcEWEoTv3gNsS6bynEwzJptS6Z18wv7Lvh\nSXTzXv5EXauqkkoqmIPvwfJ05OlUJFOUhwa7tv5BA0nTzugwQRXVp+tNx49i16Ic\nnAUvZnCCQYMSVXbZQJJ3HMu0FoJNzv0N4ZtZG+GiRPYtvYi2cEe7GQU4aByTggjh\nwKIyoQRRNiLVg702tbo/8WitjeUYo85M1WgzsDi26QKBgQDfdSdN0Vt94AfchQXP\nncx4ytR2imjODuPwQC3Cw+OwPAg8RuqMoZijD7h1P8DcYPZY8a+bfx+p5aoVe5Z8\nr1GI7iZAoIfFw0DKI1V/5mP02X1DluwUYLNZHLrwhc7ZehW9z0f2Ql6htwoj/kP1\n+QFacz0hYI5g41WANM4RryGC7wKBgQDaqKzSvrrszMFeug7ae5FaIzEHiwlTKz9c\nK6jfJRJOUh+fvZ6VMf5P5lnLpoqrTMTuvJW1mwxJT2V32uD6THzfn+vYCI8t7RTf\niVMZ0pV6VuqTyG7T9efNyJBSa35PSkNOR1IAk1/k6Tb2/uSrIC+PDcFZ58TcaUba\nnnFpxiviJwKBgQC6xtbKcbLyvN51UW7xAenWEVuTlc9SZRnbSBm30TqwpQ0RLQmB\n8NR/f3Vj850F17ox0BpDc/eIcCJBgKLhpz0UolKw9D1obPLrwqsFlBJ6p4vPggfk\nZIukcaJDxuSF3Ujs9aQlz4X/z9oXCcHOiIq8CtTO4EFB9OMTnY+dMnBlWwKBgQCd\n8Vccx26oW+KVtRnDkZxVmrPwueqba9LRliveO530evei4EorhLgpKL/WDc9+mu5p\ncElHq959Gd+2aqE1y4gr1A18t/oMd4MrULt5HJaijyPUaeQ8MRUmnOg60LClP4RM\nh9Hg3pNW+2qbkVTFk3MnBw2SDosxls36XpaXi/Do4wKBgCbvp+bo++GBjj8bZehV\np9mR35P1wBCqp4FFATlh/p6VWCUMX3e1kLXlQm9zRWJ098dqM+NNgadTSaRvC7+6\nCcC39Pn7AfSxCKMa+BCnDxCi6IfLo89xvkOrH0e7IRCQUOBGi/AOG17NUJu+PyQm\nVez3Uh0vX7xertYtXslgzN6D\n-----END PRIVATE KEY-----\n",
+  "client_email": "github-actions@wisecow.iam.gserviceaccount.com",
+  "client_id": "108489468737096812540",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/github-actions%40wisecow.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
