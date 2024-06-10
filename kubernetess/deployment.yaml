@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: wisecow
-        image: balaji33/accuknox:v1.0
+        image: balaji33/accuknox:latest
         ports:
         - containerPort: 4499
