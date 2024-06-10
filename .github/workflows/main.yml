@@ -27,7 +27,7 @@ jobs:
         with:
           context: .
           push: true
-          tags:   ${{ secrets.DOCKER_USERNAME }}/accuknox:v1.0
+          tags:   ${{ secrets.DOCKER_USERNAME }}//wisecow:latest
 
   deploy:
     runs-on: ubuntu-latest
