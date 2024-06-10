@@ -44,7 +44,7 @@ prerequisites() {
     if command -v cowsay >/dev/null 2>&1 && command -v fortune >/dev/null 2>&1; then
         echo "All prerequisites are installed."
     else
-        echo "Install prerequisites."
+        echo "Install prerequisite."
         exit 1
     fi
 }
