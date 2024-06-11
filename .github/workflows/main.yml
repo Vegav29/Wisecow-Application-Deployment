@@ -63,4 +63,9 @@ jobs:
           kubectl apply -f kubernetess/deployment.yaml
           kubectl apply -f kubernetess/service.yaml
           kubectl apply -f kubernetess/tls-ingress.yaml
+      - name: Describe Ingress
+        run: kubectl describe ingress my-ingress
+
+      - name: Curl Ingress endpoint
+        run: curl -vk https://34.95.105.109.nip.io
 
