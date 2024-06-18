@@ -19,4 +19,4 @@ This repository contains the necessary files to containerize and deploy the Wise
 Feel free to contribute by creating pull requests or opening issues.
 
 ## License
-This project is licensed under the MIT License
+This project is licensed under the MIT License.
