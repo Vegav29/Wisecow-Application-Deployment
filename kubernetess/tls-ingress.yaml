@@ -6,7 +6,7 @@ spec:
   tls:
   - secretName: my-tls-secret
   rules:
-  - host: 34.95.105.109.nip.io
+  - host: 34.95.105.109.nip.i
     http:
       paths:
       - pathType: Prefix
